@@ -3,7 +3,7 @@
 Install babel globally `yarn global add babel`
 Also ts-node
 
-Run `ts-node ./typescript/conversion/convert.ts`
+Run `ts-node ./src/convertCodebase.ts`
 
 # Automated conversion TODO's
 
